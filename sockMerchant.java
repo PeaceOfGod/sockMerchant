@@ -8,7 +8,7 @@ import java.util.regex.*;
 
 public class Solution {
 
-    // Complete the sockMerchant function below.
+    // sockMerchat Method.
     static int sockMerchant(int n, int[] ar) {
         int count = 0;
         for(int i=0; i<n; i++){
